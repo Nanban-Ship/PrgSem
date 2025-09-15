@@ -1,0 +1,14 @@
+C:\Users\tybla\source\repos\ok2\ok2\bin\Debug\net8.0\ok2.exe
+C:\Users\tybla\source\repos\ok2\ok2\bin\Debug\net8.0\ok2.deps.json
+C:\Users\tybla\source\repos\ok2\ok2\bin\Debug\net8.0\ok2.runtimeconfig.json
+C:\Users\tybla\source\repos\ok2\ok2\bin\Debug\net8.0\ok2.dll
+C:\Users\tybla\source\repos\ok2\ok2\bin\Debug\net8.0\ok2.pdb
+C:\Users\tybla\source\repos\ok2\ok2\obj\Debug\net8.0\ok2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tybla\source\repos\ok2\ok2\obj\Debug\net8.0\ok2.AssemblyInfoInputs.cache
+C:\Users\tybla\source\repos\ok2\ok2\obj\Debug\net8.0\ok2.AssemblyInfo.cs
+C:\Users\tybla\source\repos\ok2\ok2\obj\Debug\net8.0\ok2.csproj.CoreCompileInputs.cache
+C:\Users\tybla\source\repos\ok2\ok2\obj\Debug\net8.0\ok2.dll
+C:\Users\tybla\source\repos\ok2\ok2\obj\Debug\net8.0\refint\ok2.dll
+C:\Users\tybla\source\repos\ok2\ok2\obj\Debug\net8.0\ok2.pdb
+C:\Users\tybla\source\repos\ok2\ok2\obj\Debug\net8.0\ok2.genruntimeconfig.cache
+C:\Users\tybla\source\repos\ok2\ok2\obj\Debug\net8.0\ref\ok2.dll
