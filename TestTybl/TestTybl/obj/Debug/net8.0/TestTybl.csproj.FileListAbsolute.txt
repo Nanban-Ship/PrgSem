@@ -1,0 +1,14 @@
+C:\Users\tybla\source\repos\TestTybl\TestTybl\obj\Debug\net8.0\TestTybl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tybla\source\repos\TestTybl\TestTybl\obj\Debug\net8.0\TestTybl.AssemblyInfoInputs.cache
+C:\Users\tybla\source\repos\TestTybl\TestTybl\obj\Debug\net8.0\TestTybl.AssemblyInfo.cs
+C:\Users\tybla\source\repos\TestTybl\TestTybl\obj\Debug\net8.0\TestTybl.csproj.CoreCompileInputs.cache
+C:\Users\tybla\source\repos\TestTybl\TestTybl\bin\Debug\net8.0\TestTybl.exe
+C:\Users\tybla\source\repos\TestTybl\TestTybl\bin\Debug\net8.0\TestTybl.deps.json
+C:\Users\tybla\source\repos\TestTybl\TestTybl\bin\Debug\net8.0\TestTybl.runtimeconfig.json
+C:\Users\tybla\source\repos\TestTybl\TestTybl\bin\Debug\net8.0\TestTybl.dll
+C:\Users\tybla\source\repos\TestTybl\TestTybl\bin\Debug\net8.0\TestTybl.pdb
+C:\Users\tybla\source\repos\TestTybl\TestTybl\obj\Debug\net8.0\TestTybl.dll
+C:\Users\tybla\source\repos\TestTybl\TestTybl\obj\Debug\net8.0\refint\TestTybl.dll
+C:\Users\tybla\source\repos\TestTybl\TestTybl\obj\Debug\net8.0\TestTybl.pdb
+C:\Users\tybla\source\repos\TestTybl\TestTybl\obj\Debug\net8.0\TestTybl.genruntimeconfig.cache
+C:\Users\tybla\source\repos\TestTybl\TestTybl\obj\Debug\net8.0\ref\TestTybl.dll
