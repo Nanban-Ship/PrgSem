@@ -1,0 +1,14 @@
+C:\Users\adamt\Documents\GitRepo\StableMarriage\bin\Debug\net9.0\StableMarriage.exe
+C:\Users\adamt\Documents\GitRepo\StableMarriage\bin\Debug\net9.0\StableMarriage.deps.json
+C:\Users\adamt\Documents\GitRepo\StableMarriage\bin\Debug\net9.0\StableMarriage.runtimeconfig.json
+C:\Users\adamt\Documents\GitRepo\StableMarriage\bin\Debug\net9.0\StableMarriage.dll
+C:\Users\adamt\Documents\GitRepo\StableMarriage\bin\Debug\net9.0\StableMarriage.pdb
+C:\Users\adamt\Documents\GitRepo\StableMarriage\obj\Debug\net9.0\StableMarriage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamt\Documents\GitRepo\StableMarriage\obj\Debug\net9.0\StableMarriage.AssemblyInfoInputs.cache
+C:\Users\adamt\Documents\GitRepo\StableMarriage\obj\Debug\net9.0\StableMarriage.AssemblyInfo.cs
+C:\Users\adamt\Documents\GitRepo\StableMarriage\obj\Debug\net9.0\StableMarriage.csproj.CoreCompileInputs.cache
+C:\Users\adamt\Documents\GitRepo\StableMarriage\obj\Debug\net9.0\StableMarriage.dll
+C:\Users\adamt\Documents\GitRepo\StableMarriage\obj\Debug\net9.0\refint\StableMarriage.dll
+C:\Users\adamt\Documents\GitRepo\StableMarriage\obj\Debug\net9.0\StableMarriage.pdb
+C:\Users\adamt\Documents\GitRepo\StableMarriage\obj\Debug\net9.0\StableMarriage.genruntimeconfig.cache
+C:\Users\adamt\Documents\GitRepo\StableMarriage\obj\Debug\net9.0\ref\StableMarriage.dll
