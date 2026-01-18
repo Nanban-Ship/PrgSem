@@ -1,0 +1,14 @@
+C:\Users\adamt\Documents\GitRepo\MonsterInLabyrinth\bin\Debug\net9.0\MonsterInLabyrinth.exe
+C:\Users\adamt\Documents\GitRepo\MonsterInLabyrinth\bin\Debug\net9.0\MonsterInLabyrinth.deps.json
+C:\Users\adamt\Documents\GitRepo\MonsterInLabyrinth\bin\Debug\net9.0\MonsterInLabyrinth.runtimeconfig.json
+C:\Users\adamt\Documents\GitRepo\MonsterInLabyrinth\bin\Debug\net9.0\MonsterInLabyrinth.dll
+C:\Users\adamt\Documents\GitRepo\MonsterInLabyrinth\bin\Debug\net9.0\MonsterInLabyrinth.pdb
+C:\Users\adamt\Documents\GitRepo\MonsterInLabyrinth\obj\Debug\net9.0\MonsterInLabyrinth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamt\Documents\GitRepo\MonsterInLabyrinth\obj\Debug\net9.0\MonsterInLabyrinth.AssemblyInfoInputs.cache
+C:\Users\adamt\Documents\GitRepo\MonsterInLabyrinth\obj\Debug\net9.0\MonsterInLabyrinth.AssemblyInfo.cs
+C:\Users\adamt\Documents\GitRepo\MonsterInLabyrinth\obj\Debug\net9.0\MonsterInLabyrinth.csproj.CoreCompileInputs.cache
+C:\Users\adamt\Documents\GitRepo\MonsterInLabyrinth\obj\Debug\net9.0\MonsterInLabyrinth.dll
+C:\Users\adamt\Documents\GitRepo\MonsterInLabyrinth\obj\Debug\net9.0\refint\MonsterInLabyrinth.dll
+C:\Users\adamt\Documents\GitRepo\MonsterInLabyrinth\obj\Debug\net9.0\MonsterInLabyrinth.pdb
+C:\Users\adamt\Documents\GitRepo\MonsterInLabyrinth\obj\Debug\net9.0\MonsterInLabyrinth.genruntimeconfig.cache
+C:\Users\adamt\Documents\GitRepo\MonsterInLabyrinth\obj\Debug\net9.0\ref\MonsterInLabyrinth.dll
