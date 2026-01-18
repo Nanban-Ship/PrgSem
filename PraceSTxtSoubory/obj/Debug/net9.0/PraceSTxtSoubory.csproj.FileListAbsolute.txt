@@ -1,0 +1,4 @@
+C:\Users\adamt\Documents\GitRepo\PraceSTxtSoubory\obj\Debug\net9.0\PraceSTxtSoubory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamt\Documents\GitRepo\PraceSTxtSoubory\obj\Debug\net9.0\PraceSTxtSoubory.AssemblyInfoInputs.cache
+C:\Users\adamt\Documents\GitRepo\PraceSTxtSoubory\obj\Debug\net9.0\PraceSTxtSoubory.AssemblyInfo.cs
+C:\Users\adamt\Documents\GitRepo\PraceSTxtSoubory\obj\Debug\net9.0\PraceSTxtSoubory.csproj.CoreCompileInputs.cache
