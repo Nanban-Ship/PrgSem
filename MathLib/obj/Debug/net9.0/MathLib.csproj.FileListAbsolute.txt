@@ -1,0 +1,14 @@
+C:\Users\adamt\Documents\GitRepo\MathLib\bin\Debug\net9.0\MathLib.exe
+C:\Users\adamt\Documents\GitRepo\MathLib\bin\Debug\net9.0\MathLib.deps.json
+C:\Users\adamt\Documents\GitRepo\MathLib\bin\Debug\net9.0\MathLib.runtimeconfig.json
+C:\Users\adamt\Documents\GitRepo\MathLib\bin\Debug\net9.0\MathLib.dll
+C:\Users\adamt\Documents\GitRepo\MathLib\bin\Debug\net9.0\MathLib.pdb
+C:\Users\adamt\Documents\GitRepo\MathLib\obj\Debug\net9.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamt\Documents\GitRepo\MathLib\obj\Debug\net9.0\MathLib.AssemblyInfoInputs.cache
+C:\Users\adamt\Documents\GitRepo\MathLib\obj\Debug\net9.0\MathLib.AssemblyInfo.cs
+C:\Users\adamt\Documents\GitRepo\MathLib\obj\Debug\net9.0\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\adamt\Documents\GitRepo\MathLib\obj\Debug\net9.0\MathLib.dll
+C:\Users\adamt\Documents\GitRepo\MathLib\obj\Debug\net9.0\refint\MathLib.dll
+C:\Users\adamt\Documents\GitRepo\MathLib\obj\Debug\net9.0\MathLib.pdb
+C:\Users\adamt\Documents\GitRepo\MathLib\obj\Debug\net9.0\MathLib.genruntimeconfig.cache
+C:\Users\adamt\Documents\GitRepo\MathLib\obj\Debug\net9.0\ref\MathLib.dll
