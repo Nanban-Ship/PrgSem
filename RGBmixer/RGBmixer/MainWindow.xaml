@@ -1,0 +1,23 @@
+﻿<Window x:Class="RGBmixer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RGBmixer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="grd">
+        <Label x:Name="lblRed" Content="Red" HorizontalAlignment="Left" Margin="575,67,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblGreen" Content="Green" HorizontalAlignment="Left" Margin="575,175,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblBlue" Content="Blue" HorizontalAlignment="Left" Margin="575,282,0,0" VerticalAlignment="Top"/>
+        <Slider x:Name="sldRed" HorizontalAlignment="Left" Minimum="0" Maximum="255" Margin="564,110,0,0" VerticalAlignment="Top" Width="120" ValueChanged="Sld_ValueChanged" IsSnapToTickEnabled="True" TickFrequency="1"/>
+        <Slider x:Name="sldGreen" HorizontalAlignment="Left" Minimum="0" Maximum="255" Margin="564,229,0,0" VerticalAlignment="Top" Width="120" ValueChanged="Sld_ValueChanged" IsSnapToTickEnabled="True" TickFrequency="1"/>
+        <Slider x:Name="sldBlue" HorizontalAlignment="Left" Minimum="0" Maximum="255" Margin="564,336,0,0" VerticalAlignment="Top" Width="120" ValueChanged="Sld_ValueChanged" IsSnapToTickEnabled="True" TickFrequency="1"/>
+        <TextBox x:Name="txtBlue" HorizontalAlignment="Left" Margin="419,336,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" PreviewTextInput="Integer" TextChanged="Txt_TextChanged" MaxLength="3"/>
+        <TextBox x:Name="txtGreen" HorizontalAlignment="Left" Margin="419,229,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" PreviewTextInput="Integer" TextChanged="Txt_TextChanged" MaxLength="3"/>
+        <TextBox x:Name="txtRed" HorizontalAlignment="Left" Margin="419,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" PreviewTextInput="Integer" TextChanged="Txt_TextChanged" MaxLength="3"/>
+        <Label x:Name="lblHex" Content="Label" HorizontalAlignment="Left" Margin="501,359,0,0" VerticalAlignment="Top" Height="46" Width="146"/>
+        <Rectangle x:Name="rectColor" HorizontalAlignment="Left" Height="315" Margin="210,67,0,0" Stroke="Black" VerticalAlignment="Top" Width="130"/>
+
+    </Grid>
+</Window>
